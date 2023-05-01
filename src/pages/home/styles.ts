@@ -21,6 +21,7 @@ export const Hero = styled('div', {
 
   [`> ${Text}`]: {
     maskType: '$2',
+    marginTop: '$2',
     color: '$gray200',
   },
 })
